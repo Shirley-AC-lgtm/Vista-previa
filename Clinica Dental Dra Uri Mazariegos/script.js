@@ -1,5 +1,5 @@
 // Reemplaza este número con el WhatsApp real del consultorio en formato 502XXXXXXXX
-const DENTAL_WHATSAPP_NUMBER = "50200000000";
+const DENTAL_WHATSAPP_NUMBER = "50250665384";
 
 // Animación suave de aparición al desplazarse
 const observer = new IntersectionObserver(
